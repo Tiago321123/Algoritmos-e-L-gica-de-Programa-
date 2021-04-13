@@ -1,0 +1,17 @@
+#include <stdio.h>
+int main()
+ {  
+    float P1, P2, MEDIA;
+    printf("Digite aqui sua nota P1 de 0 a 10:");
+    scanf("%f",&P1);
+    printf("Digite aqui sua nota P2 de 0 a 10:");
+    scanf("%f",&P2);
+    MEDIA= (P1+P2)/2;
+    printf("\n nota final do aluno e:%0.2f",MEDIA);
+    if (MEDIA>=7)
+        printf("\nVoce foi aprovado, pode relaxar!");
+      else
+          printf("\nVoce nao foi aprovado, na proxima estude mais!");
+
+    return 0;
+ }
