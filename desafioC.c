@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <math.h>
 int main()
-{
+{   // problema: quero pintar as paredes e o teto de um comodo, quantas latas de tinta eu vou precisar? e o seu valor?
     float rendelata, valorlata, valortotal, L, C, A, area1, area2, area3,areatotal,Qlata;
     printf("Please, coloque a medida do comprimento do comodo em metros: ");
     scanf("%f",&C);
@@ -22,8 +22,8 @@ int main()
     valortotal=Qlata*valorlata;
    // valortotal= ceil(valortotal)
     system("cls");
-    printf("O valor total é: %f\n",valortotal);
-    printf("A quantidade de latas é: %f",Qlata);
+    printf("O valor total Ã©: %f\n",valortotal);
+    printf("A quantidade de latas Ã©: %f",Qlata);
    // ceil arredonda pra cima, 5.5 vai pra 6
     return 0;
 }
