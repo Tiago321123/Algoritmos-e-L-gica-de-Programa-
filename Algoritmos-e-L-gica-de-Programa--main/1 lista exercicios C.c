@@ -4,7 +4,7 @@ int main()
 
 {
     setlocale(LC_ALL,"Portuguese");
-    printf("Estou cursando Análise e Desenvolvimento de Sistemas na FATEC-AM!");
+    printf("Estou cursando Anï¿½lise e Desenvolvimento de Sistemas na FATEC-AM!");
 
 
     return 0;
