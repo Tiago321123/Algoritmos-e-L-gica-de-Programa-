@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <math.h>
+#include <math.h>  
 int main()
 {   // problema: quero pintar as paredes e o teto de um comodo, quantas latas de tinta eu vou precisar? e o seu valor?
     float rendelata, valorlata, valortotal, L, C, A, area1, area2, area3,areatotal,Qlata;
