@@ -13,8 +13,10 @@ int main()
         printf("Apenas números diferentes");
     }
     else{
-     if (a>b){
-        c=a*a;}
+     if (a>b)
+     {
+        c=a*a;
+        }
      else
         c=b*b;
     }

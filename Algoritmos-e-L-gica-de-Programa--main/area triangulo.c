@@ -8,11 +8,11 @@ int main()
     scanf("%f",&base);
     printf("Digite o tamanho da altura do triangulo: ");
     scanf("%f",&altura);
-    area=(base*altura/2);
+    area=base*altura/2;
     printf("%f\n",area);
 
     while (contador<=5){
-    printf("%i\n",contador);
+    printf("%d\n",contador);
      ++contador;
     }
     return 0;
