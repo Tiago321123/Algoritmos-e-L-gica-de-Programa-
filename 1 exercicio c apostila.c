@@ -16,6 +16,6 @@ int main()
      else
         c=b*b;
     }
-    printf("O quadrado do maior numero é: %0.2f",c);
+    printf("O quadrado do maior numero ï¿½: %0.2f",c);
     return 0;
 }
