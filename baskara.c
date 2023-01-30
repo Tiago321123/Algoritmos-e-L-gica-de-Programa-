@@ -5,7 +5,7 @@ int main()
 {
    int b,a,c,conta,delta;
    float x1,x2;
-   printf("Bem vindo ao basckara, coloque a variável a: ");
+   printf("Bem vindo ao basckara, coloque a variï¿½vel a: ");
    scanf("%s",&a);
    printf("E agora o b: ");
    scanf("%s",&b);

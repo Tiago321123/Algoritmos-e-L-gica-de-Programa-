@@ -11,7 +11,9 @@ int main()
     scanf("%f",&p);
     IMC=p/a*a;
     if (18>IMC<22)
-       printf("\nParabéns, tu é o cara!");
+       printf("\nParabï¿½ns, tu ï¿½ o cara!");
     else printf ("que pena");
        return 0;
 }
+
+
